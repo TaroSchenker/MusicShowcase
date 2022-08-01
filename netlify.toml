@@ -1,6 +1,7 @@
 [build]
     command = "npm run build" # how to trigger a build
     publish = "./dist" # what folder to publish 
+     base ="/"
 [[redirects]]
     from = "/*" # redirect any path
     to = "./public/index.html" # to this html page
