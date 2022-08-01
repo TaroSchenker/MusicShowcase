@@ -1,0 +1,15 @@
+.counter {
+    border: 3px solid black ;
+}
+
+.debt{
+    color: red;
+}
+
+.even {
+    background-color: beige;
+}
+
+.odd {
+    background-color: blue;
+}
